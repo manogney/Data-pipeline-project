@@ -93,4 +93,4 @@ The pipeline supports incremental data processing by loading only newly arrived 
 
 # OUTPUT
 
-
+https://github.com/manogney/Data-pipeline-project/blob/cefae49065fd0e867729d5bca1a5cc9537da9b53/output%20(fmcg_dashboard).pdf
