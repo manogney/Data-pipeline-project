@@ -92,5 +92,5 @@ The pipeline supports incremental data processing by loading only newly arrived 
 7. Maintain a unified enterprise-ready Gold layer for downstream analytics and reporting.
 
 # OUTPUT
-output (fmcg_dashboard).pdf
+"C:\Data engineering project\data-engineering-project-using-databricks-free-edition\project-de-fmcg-atlikon1\project-de-fmcg-atlikon\2_dashboarding\fmcg_dashboard.pdf"
 
