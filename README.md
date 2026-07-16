@@ -92,5 +92,5 @@ The pipeline supports incremental data processing by loading only newly arrived 
 7. Maintain a unified enterprise-ready Gold layer for downstream analytics and reporting.
 
 # OUTPUT
-
+output (fmcg_dashboard).pdf
 
